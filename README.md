@@ -1,2 +1,14 @@
 # SuperResolution-3D
-3D Super-Resolution for micro-CT (EDSR / MDSR + Deblur)
+# 3D Super-Resolution for micro-CT (EDSR / MDSR + Deblur)
+
+This repository provides a **true 3D super-resolution framework**
+for micro-CT rock images with ×4 upscaling.
+
+## Models
+- EDSR-3D
+- MDSR-3D (multi-scale)
+- Deblur-aware branch for physical degradation
+
+## Designed for
+- Downstream 3-phase segmentation
+- Digital rock physics
