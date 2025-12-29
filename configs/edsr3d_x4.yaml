@@ -1,0 +1,8 @@
+model: edsr3d
+scale: 4
+epochs: 200
+lr: 1e-4
+batch_size: 1
+patch_size: 64
+log_dir: runs/edsr3d
+ckpt_dir: checkpoints/edsr3d
